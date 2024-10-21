@@ -13,9 +13,12 @@ Introducing <strong>Dora,</strong> a modern web project built to address these c
 
 <h2> Video Demo: </h2>
 
-  
+<br>
+
+https://github.com/user-attachments/assets/8095a372-f8fd-4bd6-ac07-439a4458637a
 
 
+<br>
 <h2> 📗 Features: </h2>
 
 <strong>Stunning Sections:</strong> Hero, features, pricing, FAQ, testimonials, and download software sections.<br>
